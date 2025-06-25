@@ -59,3 +59,5 @@ retirarFondos(): Permite al propietario retirar los fondos restantes del contrat
 tiempoRestante(): Devuelve el tiempo restante en segundos hasta el final de la subasta.
 
 verBalance(): Consulta el saldo actual del contrato en ETH.
+
+https://sepolia.etherscan.io/address/0x32F06F8C1A2d792d3BF2569D62dd5AF8573597f9
